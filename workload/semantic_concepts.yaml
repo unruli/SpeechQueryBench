@@ -1,0 +1,52 @@
+# Semantic concept queries for AMI (remote-control design scenario). Each concept is a paraphrased
+# topic (not an exact keyword), so lexical matching should under-recall. `terms` is only for the
+# keyword baseline; `desc` is the natural-language query used by the LLM/speech-LLM architectures.
+concepts:
+  - id: 1
+    name: cost_budget
+    desc: the production cost, budget, or price of the device
+    terms: [cost, costs, budget, price, priced, euro, euros, expensive, cheap, money, dollar]
+  - id: 2
+    name: battery_power
+    desc: how the device is powered, including batteries or charging
+    terms: [battery, batteries, power, powered, charge, charger, recharge, solar, kinetic, energy]
+  - id: 3
+    name: target_user
+    desc: the intended users, market, or target demographic for the product
+    terms: [target, market, user, users, customer, customers, demographic, audience, elderly, young]
+  - id: 4
+    name: materials_casing
+    desc: the physical materials or casing used to build the device
+    terms: [material, materials, plastic, rubber, wood, wooden, titanium, case, casing, cover]
+  - id: 5
+    name: buttons_controls
+    desc: the buttons, controls, or layout of the remote interface
+    terms: [button, buttons, control, controls, layout, interface, keypad, wheel, scroll, dial]
+  - id: 6
+    name: lost_remote_finder
+    desc: a feature to locate the remote control when it is lost
+    terms: [lost, find, finding, locate, beep, whistle, tracker, locator]
+  - id: 7
+    name: speech_recognition
+    desc: controlling the device with voice or speech recognition
+    terms: [speech, voice, recognition, speak, spoken, command, verbal]
+  - id: 8
+    name: ergonomics_look
+    desc: the ergonomics, shape, look, or feel of the device
+    terms: [ergonomic, ergonomics, shape, look, feel, fancy, fashion, style, comfortable, grip]
+  - id: 9
+    name: lcd_screen
+    desc: an LCD or display screen on the device
+    terms: [lcd, screen, display, backlight, screens]
+  - id: 10
+    name: project_timeline
+    desc: the project schedule, deadlines, or time constraints
+    terms: [deadline, deadlines, schedule, timeline, weeks, minutes, finish, deliver, delivery]
+  - id: 11
+    name: environment_recycling
+    desc: environmental concerns or recyclable/sustainable materials
+    terms: [recycle, recyclable, environment, environmental, green, sustainable, biodegradable]
+  - id: 12
+    name: evaluation_feedback
+    desc: evaluating the design or gathering user feedback
+    terms: [evaluation, evaluate, feedback, survey, satisfaction, rating, questionnaire]

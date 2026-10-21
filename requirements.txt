@@ -1,0 +1,14 @@
+# Pilot dependencies (kept minimal; run on an HPC cluster.
+faster-whisper>=1.0.0
+whisper-normalizer>=0.1.0   # standard Whisper EnglishTextNormalizer for WER + keyword matching
+rapidfuzz>=3.0              # C++-backed Levenshtein for fast WER on long meeting transcripts
+soundfile>=0.12
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+# analysis (Week 4+)
+statsmodels>=0.14        # mixed-effects models
+scikit-learn>=1.3        # RQ6 reliability model, calibration
+matplotlib>=3.7
+# entity/NER (Week 2, cased corpora only)
+# spacy>=3.7

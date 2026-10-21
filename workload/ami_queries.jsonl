@@ -1,0 +1,360 @@
+{"qid": 0, "family": "lexical", "keyword": "clarification", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 1, "family": "aggregate", "op": "count", "keyword": "clarification", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 2, "family": "aggregate", "op": "prop_by_speaker", "keyword": "clarification", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 3, "family": "lexical", "keyword": "sessions", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 4, "family": "aggregate", "op": "count", "keyword": "sessions", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 5, "family": "aggregate", "op": "prop_by_speaker", "keyword": "sessions", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 6, "family": "lexical", "keyword": "opened", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 7, "family": "aggregate", "op": "count", "keyword": "opened", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 8, "family": "aggregate", "op": "prop_by_speaker", "keyword": "opened", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 9, "family": "lexical", "keyword": "provocative", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 10, "family": "aggregate", "op": "count", "keyword": "provocative", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 11, "family": "aggregate", "op": "prop_by_speaker", "keyword": "provocative", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 12, "family": "lexical", "keyword": "fantasy", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 13, "family": "aggregate", "op": "count", "keyword": "fantasy", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 14, "family": "aggregate", "op": "prop_by_speaker", "keyword": "fantasy", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 15, "family": "lexical", "keyword": "volunt", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 16, "family": "aggregate", "op": "count", "keyword": "volunt", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 17, "family": "aggregate", "op": "prop_by_speaker", "keyword": "volunt", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 18, "family": "lexical", "keyword": "liaise", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 19, "family": "aggregate", "op": "count", "keyword": "liaise", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 20, "family": "aggregate", "op": "prop_by_speaker", "keyword": "liaise", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 21, "family": "lexical", "keyword": "flying", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 22, "family": "aggregate", "op": "count", "keyword": "flying", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 23, "family": "aggregate", "op": "prop_by_speaker", "keyword": "flying", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 24, "family": "lexical", "keyword": "announcement", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 25, "family": "aggregate", "op": "count", "keyword": "announcement", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 26, "family": "aggregate", "op": "prop_by_speaker", "keyword": "announcement", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 27, "family": "lexical", "keyword": "ranks", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 28, "family": "aggregate", "op": "count", "keyword": "ranks", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 29, "family": "aggregate", "op": "prop_by_speaker", "keyword": "ranks", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 30, "family": "lexical", "keyword": "sliced", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 31, "family": "aggregate", "op": "count", "keyword": "sliced", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 32, "family": "aggregate", "op": "prop_by_speaker", "keyword": "sliced", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 33, "family": "lexical", "keyword": "residence", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 34, "family": "aggregate", "op": "count", "keyword": "residence", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 35, "family": "aggregate", "op": "prop_by_speaker", "keyword": "residence", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 36, "family": "lexical", "keyword": "broadcasting", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 37, "family": "aggregate", "op": "count", "keyword": "broadcasting", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 38, "family": "aggregate", "op": "prop_by_speaker", "keyword": "broadcasting", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 39, "family": "lexical", "keyword": "brighter", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 40, "family": "aggregate", "op": "count", "keyword": "brighter", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 41, "family": "aggregate", "op": "prop_by_speaker", "keyword": "brighter", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 42, "family": "lexical", "keyword": "crammed", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 43, "family": "aggregate", "op": "count", "keyword": "crammed", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 44, "family": "aggregate", "op": "prop_by_speaker", "keyword": "crammed", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 45, "family": "lexical", "keyword": "self", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 46, "family": "aggregate", "op": "count", "keyword": "self", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 47, "family": "aggregate", "op": "prop_by_speaker", "keyword": "self", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 48, "family": "lexical", "keyword": "villain", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 49, "family": "aggregate", "op": "count", "keyword": "villain", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 50, "family": "aggregate", "op": "prop_by_speaker", "keyword": "villain", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 51, "family": "lexical", "keyword": "poll", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 52, "family": "aggregate", "op": "count", "keyword": "poll", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 53, "family": "aggregate", "op": "prop_by_speaker", "keyword": "poll", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 54, "family": "lexical", "keyword": "stinct", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 55, "family": "aggregate", "op": "count", "keyword": "stinct", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 56, "family": "aggregate", "op": "prop_by_speaker", "keyword": "stinct", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 57, "family": "lexical", "keyword": "permutations", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 58, "family": "aggregate", "op": "count", "keyword": "permutations", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 59, "family": "aggregate", "op": "prop_by_speaker", "keyword": "permutations", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 60, "family": "lexical", "keyword": "oskar", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 61, "family": "aggregate", "op": "count", "keyword": "oskar", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 62, "family": "aggregate", "op": "prop_by_speaker", "keyword": "oskar", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 63, "family": "lexical", "keyword": "celebrity", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 64, "family": "aggregate", "op": "count", "keyword": "celebrity", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 65, "family": "aggregate", "op": "prop_by_speaker", "keyword": "celebrity", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 66, "family": "lexical", "keyword": "hopping", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 67, "family": "aggregate", "op": "count", "keyword": "hopping", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 68, "family": "aggregate", "op": "prop_by_speaker", "keyword": "hopping", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 69, "family": "lexical", "keyword": "drinks", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 70, "family": "aggregate", "op": "count", "keyword": "drinks", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 71, "family": "aggregate", "op": "prop_by_speaker", "keyword": "drinks", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 72, "family": "lexical", "keyword": "controversies", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 73, "family": "aggregate", "op": "count", "keyword": "controversies", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 74, "family": "aggregate", "op": "prop_by_speaker", "keyword": "controversies", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 75, "family": "lexical", "keyword": "agre", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 76, "family": "aggregate", "op": "count", "keyword": "agre", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 77, "family": "aggregate", "op": "prop_by_speaker", "keyword": "agre", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 78, "family": "lexical", "keyword": "inaccurate", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 79, "family": "aggregate", "op": "count", "keyword": "inaccurate", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 80, "family": "aggregate", "op": "prop_by_speaker", "keyword": "inaccurate", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 81, "family": "lexical", "keyword": "skive", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 82, "family": "aggregate", "op": "count", "keyword": "skive", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 83, "family": "aggregate", "op": "prop_by_speaker", "keyword": "skive", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 84, "family": "lexical", "keyword": "lived", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 85, "family": "aggregate", "op": "count", "keyword": "lived", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 86, "family": "aggregate", "op": "prop_by_speaker", "keyword": "lived", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 87, "family": "lexical", "keyword": "counts", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 88, "family": "aggregate", "op": "count", "keyword": "counts", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 89, "family": "aggregate", "op": "prop_by_speaker", "keyword": "counts", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 90, "family": "lexical", "keyword": "tiles", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 91, "family": "aggregate", "op": "count", "keyword": "tiles", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 92, "family": "aggregate", "op": "prop_by_speaker", "keyword": "tiles", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 93, "family": "lexical", "keyword": "spirits", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 94, "family": "aggregate", "op": "count", "keyword": "spirits", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 95, "family": "aggregate", "op": "prop_by_speaker", "keyword": "spirits", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 96, "family": "lexical", "keyword": "approved", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 97, "family": "aggregate", "op": "count", "keyword": "approved", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 98, "family": "aggregate", "op": "prop_by_speaker", "keyword": "approved", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 99, "family": "lexical", "keyword": "paths", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 100, "family": "aggregate", "op": "count", "keyword": "paths", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 101, "family": "aggregate", "op": "prop_by_speaker", "keyword": "paths", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 102, "family": "lexical", "keyword": "studied", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 103, "family": "aggregate", "op": "count", "keyword": "studied", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 104, "family": "aggregate", "op": "prop_by_speaker", "keyword": "studied", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 105, "family": "lexical", "keyword": "handles", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 106, "family": "aggregate", "op": "count", "keyword": "handles", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 107, "family": "aggregate", "op": "prop_by_speaker", "keyword": "handles", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 108, "family": "lexical", "keyword": "meta", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 109, "family": "aggregate", "op": "count", "keyword": "meta", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 110, "family": "aggregate", "op": "prop_by_speaker", "keyword": "meta", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 111, "family": "lexical", "keyword": "dimensional", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 112, "family": "aggregate", "op": "count", "keyword": "dimensional", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 113, "family": "aggregate", "op": "prop_by_speaker", "keyword": "dimensional", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 114, "family": "lexical", "keyword": "trace", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 115, "family": "aggregate", "op": "count", "keyword": "trace", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 116, "family": "aggregate", "op": "prop_by_speaker", "keyword": "trace", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 117, "family": "lexical", "keyword": "alri", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 118, "family": "aggregate", "op": "count", "keyword": "alri", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 119, "family": "aggregate", "op": "prop_by_speaker", "keyword": "alri", "df": 1, "selectivity": 0.0294, "rarity": "rare"}
+{"qid": 120, "family": "lexical", "keyword": "responsible", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 121, "family": "aggregate", "op": "count", "keyword": "responsible", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 122, "family": "aggregate", "op": "prop_by_speaker", "keyword": "responsible", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 123, "family": "lexical", "keyword": "history", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 124, "family": "aggregate", "op": "count", "keyword": "history", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 125, "family": "aggregate", "op": "prop_by_speaker", "keyword": "history", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 126, "family": "lexical", "keyword": "director", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 127, "family": "aggregate", "op": "count", "keyword": "director", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 128, "family": "aggregate", "op": "prop_by_speaker", "keyword": "director", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 129, "family": "lexical", "keyword": "forth", "df": 5, "selectivity": 0.1471, "rarity": "medium"}
+{"qid": 130, "family": "aggregate", "op": "count", "keyword": "forth", "df": 5, "selectivity": 0.1471, "rarity": "medium"}
+{"qid": 131, "family": "aggregate", "op": "prop_by_speaker", "keyword": "forth", "df": 5, "selectivity": 0.1471, "rarity": "medium"}
+{"qid": 132, "family": "lexical", "keyword": "separations", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 133, "family": "aggregate", "op": "count", "keyword": "separations", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 134, "family": "aggregate", "op": "prop_by_speaker", "keyword": "separations", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 135, "family": "lexical", "keyword": "images", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 136, "family": "aggregate", "op": "count", "keyword": "images", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 137, "family": "aggregate", "op": "prop_by_speaker", "keyword": "images", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 138, "family": "lexical", "keyword": "dancing", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 139, "family": "aggregate", "op": "count", "keyword": "dancing", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 140, "family": "aggregate", "op": "prop_by_speaker", "keyword": "dancing", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 141, "family": "lexical", "keyword": "mountains", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 142, "family": "aggregate", "op": "count", "keyword": "mountains", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 143, "family": "aggregate", "op": "prop_by_speaker", "keyword": "mountains", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 144, "family": "lexical", "keyword": "packages", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 145, "family": "aggregate", "op": "count", "keyword": "packages", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 146, "family": "aggregate", "op": "prop_by_speaker", "keyword": "packages", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 147, "family": "lexical", "keyword": "recognizable", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 148, "family": "aggregate", "op": "count", "keyword": "recognizable", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 149, "family": "aggregate", "op": "prop_by_speaker", "keyword": "recognizable", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 150, "family": "lexical", "keyword": "wednesday", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 151, "family": "aggregate", "op": "count", "keyword": "wednesday", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 152, "family": "aggregate", "op": "prop_by_speaker", "keyword": "wednesday", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 153, "family": "lexical", "keyword": "known", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 154, "family": "aggregate", "op": "count", "keyword": "known", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 155, "family": "aggregate", "op": "prop_by_speaker", "keyword": "known", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 156, "family": "lexical", "keyword": "popularity", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 157, "family": "aggregate", "op": "count", "keyword": "popularity", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 158, "family": "aggregate", "op": "prop_by_speaker", "keyword": "popularity", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 159, "family": "lexical", "keyword": "players", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 160, "family": "aggregate", "op": "count", "keyword": "players", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 161, "family": "aggregate", "op": "prop_by_speaker", "keyword": "players", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 162, "family": "lexical", "keyword": "ryan", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 163, "family": "aggregate", "op": "count", "keyword": "ryan", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 164, "family": "aggregate", "op": "prop_by_speaker", "keyword": "ryan", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 165, "family": "lexical", "keyword": "trigger", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 166, "family": "aggregate", "op": "count", "keyword": "trigger", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 167, "family": "aggregate", "op": "prop_by_speaker", "keyword": "trigger", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 168, "family": "lexical", "keyword": "crap", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 169, "family": "aggregate", "op": "count", "keyword": "crap", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 170, "family": "aggregate", "op": "prop_by_speaker", "keyword": "crap", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 171, "family": "lexical", "keyword": "sports", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 172, "family": "aggregate", "op": "count", "keyword": "sports", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 173, "family": "aggregate", "op": "prop_by_speaker", "keyword": "sports", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 174, "family": "lexical", "keyword": "parallel", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 175, "family": "aggregate", "op": "count", "keyword": "parallel", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 176, "family": "aggregate", "op": "prop_by_speaker", "keyword": "parallel", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 177, "family": "lexical", "keyword": "upside", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 178, "family": "aggregate", "op": "count", "keyword": "upside", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 179, "family": "aggregate", "op": "prop_by_speaker", "keyword": "upside", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 180, "family": "lexical", "keyword": "waves", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 181, "family": "aggregate", "op": "count", "keyword": "waves", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 182, "family": "aggregate", "op": "prop_by_speaker", "keyword": "waves", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 183, "family": "lexical", "keyword": "percentage", "df": 4, "selectivity": 0.1176, "rarity": "medium"}
+{"qid": 184, "family": "aggregate", "op": "count", "keyword": "percentage", "df": 4, "selectivity": 0.1176, "rarity": "medium"}
+{"qid": 185, "family": "aggregate", "op": "prop_by_speaker", "keyword": "percentage", "df": 4, "selectivity": 0.1176, "rarity": "medium"}
+{"qid": 186, "family": "lexical", "keyword": "generate", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 187, "family": "aggregate", "op": "count", "keyword": "generate", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 188, "family": "aggregate", "op": "prop_by_speaker", "keyword": "generate", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 189, "family": "lexical", "keyword": "maneuver", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 190, "family": "aggregate", "op": "count", "keyword": "maneuver", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 191, "family": "aggregate", "op": "prop_by_speaker", "keyword": "maneuver", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 192, "family": "lexical", "keyword": "ranked", "df": 4, "selectivity": 0.1176, "rarity": "medium"}
+{"qid": 193, "family": "aggregate", "op": "count", "keyword": "ranked", "df": 4, "selectivity": 0.1176, "rarity": "medium"}
+{"qid": 194, "family": "aggregate", "op": "prop_by_speaker", "keyword": "ranked", "df": 4, "selectivity": 0.1176, "rarity": "medium"}
+{"qid": 195, "family": "lexical", "keyword": "haley", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 196, "family": "aggregate", "op": "count", "keyword": "haley", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 197, "family": "aggregate", "op": "prop_by_speaker", "keyword": "haley", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 198, "family": "lexical", "keyword": "directed", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 199, "family": "aggregate", "op": "count", "keyword": "directed", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 200, "family": "aggregate", "op": "prop_by_speaker", "keyword": "directed", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 201, "family": "lexical", "keyword": "summarisation", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 202, "family": "aggregate", "op": "count", "keyword": "summarisation", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 203, "family": "aggregate", "op": "prop_by_speaker", "keyword": "summarisation", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 204, "family": "lexical", "keyword": "nominees", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 205, "family": "aggregate", "op": "count", "keyword": "nominees", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 206, "family": "aggregate", "op": "prop_by_speaker", "keyword": "nominees", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 207, "family": "lexical", "keyword": "gathering", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 208, "family": "aggregate", "op": "count", "keyword": "gathering", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 209, "family": "aggregate", "op": "prop_by_speaker", "keyword": "gathering", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 210, "family": "lexical", "keyword": "bulbs", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 211, "family": "aggregate", "op": "count", "keyword": "bulbs", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 212, "family": "aggregate", "op": "prop_by_speaker", "keyword": "bulbs", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 213, "family": "lexical", "keyword": "areas", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 214, "family": "aggregate", "op": "count", "keyword": "areas", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 215, "family": "aggregate", "op": "prop_by_speaker", "keyword": "areas", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 216, "family": "lexical", "keyword": "desi", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 217, "family": "aggregate", "op": "count", "keyword": "desi", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 218, "family": "aggregate", "op": "prop_by_speaker", "keyword": "desi", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 219, "family": "lexical", "keyword": "state", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 220, "family": "aggregate", "op": "count", "keyword": "state", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 221, "family": "aggregate", "op": "prop_by_speaker", "keyword": "state", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 222, "family": "lexical", "keyword": "placed", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 223, "family": "aggregate", "op": "count", "keyword": "placed", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 224, "family": "aggregate", "op": "prop_by_speaker", "keyword": "placed", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 225, "family": "lexical", "keyword": "frustrations", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 226, "family": "aggregate", "op": "count", "keyword": "frustrations", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 227, "family": "aggregate", "op": "prop_by_speaker", "keyword": "frustrations", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 228, "family": "lexical", "keyword": "vote", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 229, "family": "aggregate", "op": "count", "keyword": "vote", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 230, "family": "aggregate", "op": "prop_by_speaker", "keyword": "vote", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 231, "family": "lexical", "keyword": "staying", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 232, "family": "aggregate", "op": "count", "keyword": "staying", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 233, "family": "aggregate", "op": "prop_by_speaker", "keyword": "staying", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 234, "family": "lexical", "keyword": "performance", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 235, "family": "aggregate", "op": "count", "keyword": "performance", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 236, "family": "aggregate", "op": "prop_by_speaker", "keyword": "performance", "df": 2, "selectivity": 0.0588, "rarity": "medium"}
+{"qid": 237, "family": "lexical", "keyword": "independent", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 238, "family": "aggregate", "op": "count", "keyword": "independent", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 239, "family": "aggregate", "op": "prop_by_speaker", "keyword": "independent", "df": 3, "selectivity": 0.0882, "rarity": "medium"}
+{"qid": 240, "family": "lexical", "keyword": "maybe", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 241, "family": "aggregate", "op": "count", "keyword": "maybe", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 242, "family": "aggregate", "op": "prop_by_speaker", "keyword": "maybe", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 243, "family": "lexical", "keyword": "afternoon", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 244, "family": "aggregate", "op": "count", "keyword": "afternoon", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 245, "family": "aggregate", "op": "prop_by_speaker", "keyword": "afternoon", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 246, "family": "lexical", "keyword": "discuss", "df": 26, "selectivity": 0.7647, "rarity": "common"}
+{"qid": 247, "family": "aggregate", "op": "count", "keyword": "discuss", "df": 26, "selectivity": 0.7647, "rarity": "common"}
+{"qid": 248, "family": "aggregate", "op": "prop_by_speaker", "keyword": "discuss", "df": 26, "selectivity": 0.7647, "rarity": "common"}
+{"qid": 249, "family": "lexical", "keyword": "sent", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 250, "family": "aggregate", "op": "count", "keyword": "sent", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 251, "family": "aggregate", "op": "prop_by_speaker", "keyword": "sent", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 252, "family": "lexical", "keyword": "easier", "df": 19, "selectivity": 0.5588, "rarity": "common"}
+{"qid": 253, "family": "aggregate", "op": "count", "keyword": "easier", "df": 19, "selectivity": 0.5588, "rarity": "common"}
+{"qid": 254, "family": "aggregate", "op": "prop_by_speaker", "keyword": "easier", "df": 19, "selectivity": 0.5588, "rarity": "common"}
+{"qid": 255, "family": "lexical", "keyword": "products", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 256, "family": "aggregate", "op": "count", "keyword": "products", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 257, "family": "aggregate", "op": "prop_by_speaker", "keyword": "products", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 258, "family": "lexical", "keyword": "weeks", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 259, "family": "aggregate", "op": "count", "keyword": "weeks", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 260, "family": "aggregate", "op": "prop_by_speaker", "keyword": "weeks", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 261, "family": "lexical", "keyword": "heavy", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 262, "family": "aggregate", "op": "count", "keyword": "heavy", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 263, "family": "aggregate", "op": "prop_by_speaker", "keyword": "heavy", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 264, "family": "lexical", "keyword": "limit", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 265, "family": "aggregate", "op": "count", "keyword": "limit", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 266, "family": "aggregate", "op": "prop_by_speaker", "keyword": "limit", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 267, "family": "lexical", "keyword": "view", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 268, "family": "aggregate", "op": "count", "keyword": "view", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 269, "family": "aggregate", "op": "prop_by_speaker", "keyword": "view", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 270, "family": "lexical", "keyword": "data", "df": 8, "selectivity": 0.2353, "rarity": "common"}
+{"qid": 271, "family": "aggregate", "op": "count", "keyword": "data", "df": 8, "selectivity": 0.2353, "rarity": "common"}
+{"qid": 272, "family": "aggregate", "op": "prop_by_speaker", "keyword": "data", "df": 8, "selectivity": 0.2353, "rarity": "common"}
+{"qid": 273, "family": "lexical", "keyword": "detailed", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 274, "family": "aggregate", "op": "count", "keyword": "detailed", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 275, "family": "aggregate", "op": "prop_by_speaker", "keyword": "detailed", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 276, "family": "lexical", "keyword": "even", "df": 29, "selectivity": 0.8529, "rarity": "common"}
+{"qid": 277, "family": "aggregate", "op": "count", "keyword": "even", "df": 29, "selectivity": 0.8529, "rarity": "common"}
+{"qid": 278, "family": "aggregate", "op": "prop_by_speaker", "keyword": "even", "df": 29, "selectivity": 0.8529, "rarity": "common"}
+{"qid": 279, "family": "lexical", "keyword": "bigger", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 280, "family": "aggregate", "op": "count", "keyword": "bigger", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 281, "family": "aggregate", "op": "prop_by_speaker", "keyword": "bigger", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 282, "family": "lexical", "keyword": "found", "df": 21, "selectivity": 0.6176, "rarity": "common"}
+{"qid": 283, "family": "aggregate", "op": "count", "keyword": "found", "df": 21, "selectivity": 0.6176, "rarity": "common"}
+{"qid": 284, "family": "aggregate", "op": "prop_by_speaker", "keyword": "found", "df": 21, "selectivity": 0.6176, "rarity": "common"}
+{"qid": 285, "family": "lexical", "keyword": "printed", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 286, "family": "aggregate", "op": "count", "keyword": "printed", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 287, "family": "aggregate", "op": "prop_by_speaker", "keyword": "printed", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 288, "family": "lexical", "keyword": "something", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 289, "family": "aggregate", "op": "count", "keyword": "something", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 290, "family": "aggregate", "op": "prop_by_speaker", "keyword": "something", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 291, "family": "lexical", "keyword": "usual", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 292, "family": "aggregate", "op": "count", "keyword": "usual", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 293, "family": "aggregate", "op": "prop_by_speaker", "keyword": "usual", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 294, "family": "lexical", "keyword": "either", "df": 26, "selectivity": 0.7647, "rarity": "common"}
+{"qid": 295, "family": "aggregate", "op": "count", "keyword": "either", "df": 26, "selectivity": 0.7647, "rarity": "common"}
+{"qid": 296, "family": "aggregate", "op": "prop_by_speaker", "keyword": "either", "df": 26, "selectivity": 0.7647, "rarity": "common"}
+{"qid": 297, "family": "lexical", "keyword": "long", "df": 25, "selectivity": 0.7353, "rarity": "common"}
+{"qid": 298, "family": "aggregate", "op": "count", "keyword": "long", "df": 25, "selectivity": 0.7353, "rarity": "common"}
+{"qid": 299, "family": "aggregate", "op": "prop_by_speaker", "keyword": "long", "df": 25, "selectivity": 0.7353, "rarity": "common"}
+{"qid": 300, "family": "lexical", "keyword": "possibly", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 301, "family": "aggregate", "op": "count", "keyword": "possibly", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 302, "family": "aggregate", "op": "prop_by_speaker", "keyword": "possibly", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 303, "family": "lexical", "keyword": "sitting", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 304, "family": "aggregate", "op": "count", "keyword": "sitting", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 305, "family": "aggregate", "op": "prop_by_speaker", "keyword": "sitting", "df": 12, "selectivity": 0.3529, "rarity": "common"}
+{"qid": 306, "family": "lexical", "keyword": "comes", "df": 19, "selectivity": 0.5588, "rarity": "common"}
+{"qid": 307, "family": "aggregate", "op": "count", "keyword": "comes", "df": 19, "selectivity": 0.5588, "rarity": "common"}
+{"qid": 308, "family": "aggregate", "op": "prop_by_speaker", "keyword": "comes", "df": 19, "selectivity": 0.5588, "rarity": "common"}
+{"qid": 309, "family": "lexical", "keyword": "computers", "df": 10, "selectivity": 0.2941, "rarity": "common"}
+{"qid": 310, "family": "aggregate", "op": "count", "keyword": "computers", "df": 10, "selectivity": 0.2941, "rarity": "common"}
+{"qid": 311, "family": "aggregate", "op": "prop_by_speaker", "keyword": "computers", "df": 10, "selectivity": 0.2941, "rarity": "common"}
+{"qid": 312, "family": "lexical", "keyword": "gave", "df": 9, "selectivity": 0.2647, "rarity": "common"}
+{"qid": 313, "family": "aggregate", "op": "count", "keyword": "gave", "df": 9, "selectivity": 0.2647, "rarity": "common"}
+{"qid": 314, "family": "aggregate", "op": "prop_by_speaker", "keyword": "gave", "df": 9, "selectivity": 0.2647, "rarity": "common"}
+{"qid": 315, "family": "lexical", "keyword": "having", "df": 23, "selectivity": 0.6765, "rarity": "common"}
+{"qid": 316, "family": "aggregate", "op": "count", "keyword": "having", "df": 23, "selectivity": 0.6765, "rarity": "common"}
+{"qid": 317, "family": "aggregate", "op": "prop_by_speaker", "keyword": "having", "df": 23, "selectivity": 0.6765, "rarity": "common"}
+{"qid": 318, "family": "lexical", "keyword": "findings", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 319, "family": "aggregate", "op": "count", "keyword": "findings", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 320, "family": "aggregate", "op": "prop_by_speaker", "keyword": "findings", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 321, "family": "lexical", "keyword": "about", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 322, "family": "aggregate", "op": "count", "keyword": "about", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 323, "family": "aggregate", "op": "prop_by_speaker", "keyword": "about", "df": 34, "selectivity": 1.0, "rarity": "common"}
+{"qid": 324, "family": "lexical", "keyword": "soon", "df": 9, "selectivity": 0.2647, "rarity": "common"}
+{"qid": 325, "family": "aggregate", "op": "count", "keyword": "soon", "df": 9, "selectivity": 0.2647, "rarity": "common"}
+{"qid": 326, "family": "aggregate", "op": "prop_by_speaker", "keyword": "soon", "df": 9, "selectivity": 0.2647, "rarity": "common"}
+{"qid": 327, "family": "lexical", "keyword": "welcome", "df": 13, "selectivity": 0.3824, "rarity": "common"}
+{"qid": 328, "family": "aggregate", "op": "count", "keyword": "welcome", "df": 13, "selectivity": 0.3824, "rarity": "common"}
+{"qid": 329, "family": "aggregate", "op": "prop_by_speaker", "keyword": "welcome", "df": 13, "selectivity": 0.3824, "rarity": "common"}
+{"qid": 330, "family": "lexical", "keyword": "almost", "df": 16, "selectivity": 0.4706, "rarity": "common"}
+{"qid": 331, "family": "aggregate", "op": "count", "keyword": "almost", "df": 16, "selectivity": 0.4706, "rarity": "common"}
+{"qid": 332, "family": "aggregate", "op": "prop_by_speaker", "keyword": "almost", "df": 16, "selectivity": 0.4706, "rarity": "common"}
+{"qid": 333, "family": "lexical", "keyword": "cannot", "df": 8, "selectivity": 0.2353, "rarity": "common"}
+{"qid": 334, "family": "aggregate", "op": "count", "keyword": "cannot", "df": 8, "selectivity": 0.2353, "rarity": "common"}
+{"qid": 335, "family": "aggregate", "op": "prop_by_speaker", "keyword": "cannot", "df": 8, "selectivity": 0.2353, "rarity": "common"}
+{"qid": 336, "family": "lexical", "keyword": "thinking", "df": 27, "selectivity": 0.7941, "rarity": "common"}
+{"qid": 337, "family": "aggregate", "op": "count", "keyword": "thinking", "df": 27, "selectivity": 0.7941, "rarity": "common"}
+{"qid": 338, "family": "aggregate", "op": "prop_by_speaker", "keyword": "thinking", "df": 27, "selectivity": 0.7941, "rarity": "common"}
+{"qid": 339, "family": "lexical", "keyword": "standard", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 340, "family": "aggregate", "op": "count", "keyword": "standard", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 341, "family": "aggregate", "op": "prop_by_speaker", "keyword": "standard", "df": 14, "selectivity": 0.4118, "rarity": "common"}
+{"qid": 342, "family": "lexical", "keyword": "mute", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 343, "family": "aggregate", "op": "count", "keyword": "mute", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 344, "family": "aggregate", "op": "prop_by_speaker", "keyword": "mute", "df": 7, "selectivity": 0.2059, "rarity": "common"}
+{"qid": 345, "family": "lexical", "keyword": "small", "df": 24, "selectivity": 0.7059, "rarity": "common"}
+{"qid": 346, "family": "aggregate", "op": "count", "keyword": "small", "df": 24, "selectivity": 0.7059, "rarity": "common"}
+{"qid": 347, "family": "aggregate", "op": "prop_by_speaker", "keyword": "small", "df": 24, "selectivity": 0.7059, "rarity": "common"}
+{"qid": 348, "family": "lexical", "keyword": "curved", "df": 10, "selectivity": 0.2941, "rarity": "common"}
+{"qid": 349, "family": "aggregate", "op": "count", "keyword": "curved", "df": 10, "selectivity": 0.2941, "rarity": "common"}
+{"qid": 350, "family": "aggregate", "op": "prop_by_speaker", "keyword": "curved", "df": 10, "selectivity": 0.2941, "rarity": "common"}
+{"qid": 351, "family": "lexical", "keyword": "write", "df": 16, "selectivity": 0.4706, "rarity": "common"}
+{"qid": 352, "family": "aggregate", "op": "count", "keyword": "write", "df": 16, "selectivity": 0.4706, "rarity": "common"}
+{"qid": 353, "family": "aggregate", "op": "prop_by_speaker", "keyword": "write", "df": 16, "selectivity": 0.4706, "rarity": "common"}
+{"qid": 354, "family": "lexical", "keyword": "include", "df": 11, "selectivity": 0.3235, "rarity": "common"}
+{"qid": 355, "family": "aggregate", "op": "count", "keyword": "include", "df": 11, "selectivity": 0.3235, "rarity": "common"}
+{"qid": 356, "family": "aggregate", "op": "prop_by_speaker", "keyword": "include", "df": 11, "selectivity": 0.3235, "rarity": "common"}
+{"qid": 357, "family": "lexical", "keyword": "split", "df": 6, "selectivity": 0.1765, "rarity": "common"}
+{"qid": 358, "family": "aggregate", "op": "count", "keyword": "split", "df": 6, "selectivity": 0.1765, "rarity": "common"}
+{"qid": 359, "family": "aggregate", "op": "prop_by_speaker", "keyword": "split", "df": 6, "selectivity": 0.1765, "rarity": "common"}
